@@ -1,0 +1,17 @@
+created: 20220915183547964
+creator: TidGiUser
+demo: 
+modified: 20220915184126053
+modifier: TidGiUser
+tags: git commands
+title: git-commands
+type: text/vnd.tiddlywiki
+wysiwyg: yes
+
+- update code and save changes:
+''git commit -a -m "line added command.html " | git push''
+
+''''
+
+''
+''
